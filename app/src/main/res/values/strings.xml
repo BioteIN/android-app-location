@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Encontre o ID do dispositivo</string>
+    <string name="your_device_id_is">Encontre aqui a locaização do dispositivo:</string>
+    <string name="emailSubject">O ID do dispositivo é p:</string>
+    <string name="what_is_device_id">O ID do dispositivo Android é um identificador exclusivo de 16 caracteres de cada dispositivo baseado em Android. \ N \ nÉ útil para fins de depuração e desenvolvimento.</string>
+    <string name="email_it">Enviar Email</string>
+
+</resources>
